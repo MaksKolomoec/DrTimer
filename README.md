@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, Router, types
 from aiogram.filters import Command
 import re
 
-API_TOKEN = "7778687311:AAFNaZX9LF5R5sdVnRVi_MCUraWGXAi88zY"
+API_TOKEN = ""
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
